@@ -1,0 +1,5 @@
+{
+  "name": "Assistant.AI Landing Page",
+  "description": "A simple landing page for the Assistant.AI web application, showcasing its potential and linking to a placeholder chat page. Designed with a modern, dark theme using Tailwind CSS.",
+  "requestFramePermissions": []
+}
